@@ -1,4 +1,6 @@
-Server:"[COLOR lightyellow] -------     IP-LIST     -------[/COLOR]" URL="http://adryanlist.info";
+
+
+Server:"[COLOR lightyellow] -------   IP-LIST  -------[/COLOR]" URL="http://adryanlist.info";
 ALL:"999 [COLOR lightslategray][/COLOR]" URL="http://195.154.183.48:8000/get.php?username=miguel&password=miguel&type=m3u"; 
 Server:"417 [COLOR lightslategray][/COLOR]" URL="http://iptv.hack-sat.org:8000/get.php?username=h0FpfEsesi&password=hTHo1iTF34&type=m3u";  
 Server:"418 [COLOR lightslategray][/COLOR]" URL="http://149.202.208.43:50100/get.php?username=fahad&password=fahad&type=m3u"; regex"ES="
@@ -359,3 +361,10 @@ iguide:"millox" url="http://liomilox.blogspot.com/p/ch13.html";
 #EXTINF:-1,ES: AXN White
 #EXTINF:-1,ES: AXN
 #EXTINF:-1,ES: A&E
+
+
+
+
+
+
+
