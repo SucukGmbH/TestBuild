@@ -1,7 +1,7 @@
 
 
 Server:"[COLOR lightyellow] -------   IP-LIST  -------[/COLOR]" URL="http://adryanlist.info";
-ALL:"999 [COLOR lightslategray][/COLOR]" URL="http://195.154.183.48:8000/get.php?username=miguel&password=miguel&type=m3u"; 
+Server:"999 [COLOR lightslategray][/COLOR]" URL="http://195.154.183.48:8000/get.php?username=miguel&password=miguel&type=m3u"; 
 Server:"417 [COLOR lightslategray][/COLOR]" URL="http://iptv.hack-sat.org:8000/get.php?username=h0FpfEsesi&password=hTHo1iTF34&type=m3u";  
 Server:"418 [COLOR lightslategray][/COLOR]" URL="http://149.202.208.43:50100/get.php?username=fahad&password=fahad&type=m3u"; regex"ES="
 Server:"419 [COLOR lightslategray][/COLOR]" URL="http://lookmytv.ddns.net:8000/get.php?username=engin&password=engin&type=m3u";  
